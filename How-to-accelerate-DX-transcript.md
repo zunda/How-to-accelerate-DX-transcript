@@ -6,4 +6,4 @@ Ishikura: Audrey, thank you very much for coming and taking time from your busy 
 
 ## オードリー氏が考えるDX推進における本質とは
 
-Tang:
+Tang: Certainly. I thank you for your call for the question. My job as a digital minister is not an IT minister and I also make this clarification to the Japanese media because they used to call me the *IT大臣* (IT minister), right? And the difference is that IT connects machines and digital connects people. So the necessary critical elements of digital transformation is not to confuse it with IT. If the work that you do, brings people together, give voice to people who didn't have voice, make participation bi-directional, omni-directional, multi-directional, rather than just people listening to one of two radio or TV stations. So one, increase the symmetry and bit rate of participation and engagement than you are on the right path in digitalization. Otherwise, if you connect everything but listening to still only one or two persons speak and every body just listen, that may be digitization but it's not digitalization. It is not truly digital.
