@@ -2,6 +2,8 @@
 
 A transcript from the "2021-03-11 Talk with Yoko Ishikura at Sansan Evolution Week" published by PDIS under Creative Commons Attribution license at https://youtu.be/zpn-MMPf6e0
 
+---
+
 Ishikura: Audrey, thank you very much for coming and taking time from your busy schedule. We really appreciate having you. And we have a lot of questions the we'd like to ask. If you could share your experiences, I think it will be great.
 
 ## オードリー氏が考えるDX推進における本質とは
