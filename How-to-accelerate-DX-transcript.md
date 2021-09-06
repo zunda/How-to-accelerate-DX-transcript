@@ -1,5 +1,7 @@
 # How to accelerate DX
 
+Ishikura: 皆さんおはようございます、こんにちは。今ご紹介いただきました、石倉洋子です。どうぞよろしくお願いいたします。今日は、Sansan Evolution Week 2021の4日目で、How to accelerate DXというタイトルで、台湾のデジタル担当大臣のオードリー・タンさんをお招きしています。私もこれを楽しみにしています。オードリーさんについてはもう皆さんよくご存知だと思うので、このスライドをご覧いただきますが、今まで本当にいろいろなことをされていて、今はデジタル担当大臣としていろいろなことを進めていらっしゃるということです。私は今は一橋のナントカとかと書いてありますが実はフリーターでどこの組織にも属していなくてですね、いろいろなことをやっているのが実情です。特に若い人に対してのいろいろなことをやりたいなと思い、やっています。今日はそのあたりもいろいろとオードリーさんに伺ってみようと思っています。それでは、この辺から英語でやります。
+
 Ishikura: Audrey, thank you very much for coming and taking time from your busy schedule. We really appreciate having you. And we have a lot of questions the we'd like to ask. If you could share your experiences, I think it will be great.
 
 ## オードリー氏が考えるDX推進における本質とは
@@ -97,3 +99,5 @@ Ishikura: That is something that I found either in your talk or in your book. I 
 Ishikura: I think we're just running out of time. Thank you so much for such an inspiring and such an exciting talk. And I do appreciate it very much. I hope we will meet in person and you will have a chance to visit Japan, to meet with all sorts of people in the real world.
 
 Tang: Yes. In the analog and quantum world. Thank you for the very enjoyable conversation. Live long and prosper everyone!
+
+Ishikura: ということで、今回のオードリー・タンさんとのセッションはこれで終わりました。とても面白かったと思うので、皆さんもいろいろ参考にしていただければ良いかと思います。ありがとうございました。
