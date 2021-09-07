@@ -2,7 +2,7 @@
 
 Ishikura: 皆さんおはようございます、こんにちは。今ご紹介いただきました、石倉洋子です。どうぞよろしくお願いいたします。今日は、Sansan Evolution Week 2021の4日目で、How to accelerate DXというタイトルで、台湾のデジタル担当大臣のオードリー・タンさんをお招きしています。私もこれを楽しみにしています。オードリーさんについてはもう皆さんよくご存知だと思うので、このスライドをご覧いただきますが、今まで本当にいろいろなことをされていて、今はデジタル担当大臣としていろいろなことを進めていらっしゃるということです。私は今は一橋のナントカとかと書いてありますが実はフリーターでどこの組織にも属していなくてですね、いろいろなことをやっているのが実情です。特に若い人に対してのいろいろなことをやりたいなと思い、やっています。今日はそのあたりもいろいろとオードリーさんに伺ってみようと思っています。それでは、この辺から英語でやります。
 
-Ishikura: Audrey, thank you very much for coming and taking time from your busy schedule. We really appreciate having you. And we have a lot of questions the we'd like to ask. If you could share your experiences, I think it will be great.
+Ishikura: Audrey, thank you very much for coming and taking time from your busy schedule. We really appreciate having you. And we have a lot of questions that we'd like to ask. If you could share your experiences, I think it will be great.
 
 ## オードリー氏が考えるDX推進における本質とは
 
@@ -16,7 +16,7 @@ Tang: This is a great question. In Taiwan, what we are doing is making sure that
 
 Ishikura: You mentioned that inclusion starts at very early age, at school, around 16 years old -- I'm talking about the straw. Is there any way that we can accelerate that? It means that we really have to work on education in early stage and that's gonna take a little while for us to see the concept of inclusion to be instilled in the younger generation kids, for example. So, is there any way that we can just kind of fast-track?
 
-Tang: Yeah, definitely. I'm sure that in Japan there are also plenty of very young people, maybe they are just 14, maybe they are just 15, are already starting very good social movements, social entrepreneurship, and so on. So in Taiwan, our "fast-track" is just to invite these young people into the cabinet level youth advisory council. And this council, very interestingly, all appoints people younger than 35, some of them in their 20s, but they are already quite well-known online. And by calling them reverse mentors, advisor to the cabinet, they get this natural position that goes against the exiting discrimination based on age. Because, instead of calling them "young friends," we call them "advisor," right? Actually, the 16-year-old girl that started the petitions is now 19 years old and she is already an advisor in the committee of national open government partnership, national action plan committee. So, I would call her the counselor, Counselor Wong. Even though she is not technically speaking fully an adult, yet.
+Tang: Yeah, definitely. I'm sure that in Japan there are also plenty of very young people, maybe they are just 14, maybe they are just 15, are already starting very good social movements, social entrepreneurship, and so on. So in Taiwan, our "fast-track" is just to invite these young people into the cabinet level youth advisory council. And this council, very interestingly, all appoints people younger than 35, some of them in their 20s, but they are already quite well-known online. And by calling them reverse mentors, advisor to the cabinet, they get this natural position that goes against the exiting discrimination based on age. Because, instead of calling them "young friends", we call them "advisor", right? Actually, the 16-year-old girl that started the petitions is now 19 years old and she is already an advisor in the committee of national open government partnership, national action plan committee. So, I would call her the counselor, Counselor Wong. Even though she is not technically speaking fully an adult, yet.
 
 Ishikura: A couple of questions. In order to make sure that young people are given a position or assigned to a position of making decisions, we need the existing leadership group to change their mindset or whatever, willing to make sure that you involve these people with new ideas. I'm sure that's not that easy because they have the best of interests. Their reference point maybe much more with their own experiences rather than today's digital native. How can we convince, or do we need to convince these leaders of today?
 
@@ -51,8 +51,6 @@ Tang: Sure. I plan to visit Japan after the COVID, and meet you face-to-face. An
 Ishikura: When it comes to language, I heard you talked to the young people in Tohoku in Japanese. So I know you speak Japanese as well.
 
 Tang: I was reading a script, to be honest. I'm really meaning to do it.
-
-##
 
 Ishikura: Just changing the subject a little bit. You have done tremendous things and accomplishment so far. If you are able to do it all over again, would you do something different, or would you follow the same thing? You talked about resilience and learning from SARS and all sorts of things. If you know what you know now.
 
